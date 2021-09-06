@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: First Post - Why
+title: My "WHY"
 date: 2021-09-06T22:08:18.087Z
 ---
 I recently watched an issue of the CBS show [Scorpion](https://en.wikipedia.org/wiki/Scorpion_(TV_series)), about a group of four "geniuses" who solve problems for the government and it got me thinking about my childhood. 
